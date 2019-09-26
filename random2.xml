@@ -1,0 +1,195 @@
+<?xml version='1.0'?>
+<adtree>
+	<node refinement="disjunctive">
+		<label>1</label>
+		<node refinement="disjunctive">
+		<label>2</label>
+		<node refinement="conjunctive" switchRole="yes">
+		<label>19</label>
+		<node refinement="conjunctive">
+		<label>20</label>
+		<node refinement="disjunctive">
+		<label>23</label>
+		<node refinement="disjunctive" switchRole="yes">
+		<label>43</label>
+	</node>
+</node>
+	<node refinement="disjunctive">
+		<label>24</label>
+		<node refinement="disjunctive" switchRole="yes">
+		<label>40</label>
+	</node>
+</node>
+	<node refinement="disjunctive">
+		<label>25</label>
+		<node refinement="disjunctive" switchRole="yes">
+		<label>43</label>
+	</node>
+</node>
+	<node refinement="disjunctive" switchRole="yes">
+		<label>45</label>
+		<node refinement="disjunctive">
+		<label>46</label>
+	</node>
+	<node refinement="disjunctive">
+		<label>47</label>
+	</node>
+</node>
+</node>
+	<node refinement="disjunctive">
+		<label>21</label>
+		<node refinement="disjunctive">
+		<label>26</label>
+	</node>
+	<node refinement="disjunctive">
+		<label>27</label>
+		<node refinement="disjunctive" switchRole="yes">
+		<label>48</label>
+	</node>
+</node>
+	<node refinement="disjunctive">
+		<label>28</label>
+	</node>
+	<node refinement="disjunctive">
+		<label>29</label>
+	</node>
+</node>
+	<node refinement="conjunctive">
+		<label>22</label>
+		<node refinement="disjunctive">
+		<label>30</label>
+		<node refinement="disjunctive" switchRole="yes">
+		<label>46</label>
+	</node>
+</node>
+	<node refinement="disjunctive">
+		<label>31</label>
+		<node refinement="disjunctive" switchRole="yes">
+		<label>46</label>
+	</node>
+</node>
+	<node refinement="conjunctive" switchRole="yes">
+		<label>36</label>
+		<node refinement="disjunctive">
+		<label>37</label>
+		<node refinement="disjunctive">
+		<label>41</label>
+	</node>
+	<node refinement="disjunctive">
+		<label>42</label>
+	</node>
+</node>
+	<node refinement="disjunctive">
+		<label>38</label>
+		<node refinement="disjunctive">
+		<label>43</label>
+	</node>
+	<node refinement="disjunctive">
+		<label>44</label>
+	</node>
+</node>
+	<node refinement="disjunctive">
+		<label>39</label>
+	</node>
+	<node refinement="disjunctive">
+		<label>40</label>
+	</node>
+</node>
+</node>
+</node>
+</node>
+	<node refinement="disjunctive">
+		<label>3</label>
+		<node refinement="disjunctive" switchRole="yes">
+		<label>33</label>
+		<node refinement="disjunctive">
+		<label>34</label>
+		<node refinement="disjunctive" switchRole="yes">
+		<label>41</label>
+	</node>
+</node>
+	<node refinement="disjunctive">
+		<label>35</label>
+		<node refinement="disjunctive" switchRole="yes">
+		<label>41</label>
+	</node>
+</node>
+</node>
+</node>
+	<node refinement="disjunctive">
+		<label>4</label>
+		<node refinement="disjunctive" switchRole="yes">
+		<label>5</label>
+		<node refinement="disjunctive">
+		<label>6</label>
+		<node refinement="disjunctive">
+		<label>8</label>
+	</node>
+	<node refinement="disjunctive">
+		<label>9</label>
+	</node>
+	<node refinement="disjunctive">
+		<label>10</label>
+	</node>
+	<node refinement="disjunctive">
+		<label>14</label>
+		<node refinement="disjunctive" switchRole="yes">
+		<label>48</label>
+	</node>
+</node>
+	<node refinement="disjunctive">
+		<label>15</label>
+		<node refinement="disjunctive" switchRole="yes">
+		<label>48</label>
+	</node>
+</node>
+	<node refinement="disjunctive">
+		<label>16</label>
+		<node refinement="disjunctive" switchRole="yes">
+		<label>46</label>
+	</node>
+</node>
+	<node refinement="disjunctive">
+		<label>17</label>
+		<node refinement="disjunctive" switchRole="yes">
+		<label>43</label>
+	</node>
+</node>
+</node>
+	<node refinement="conjunctive">
+		<label>7</label>
+		<node refinement="disjunctive">
+		<label>11</label>
+		<node refinement="disjunctive" switchRole="yes">
+		<label>39</label>
+	</node>
+</node>
+	<node refinement="disjunctive">
+		<label>12</label>
+		<node refinement="disjunctive" switchRole="yes">
+		<label>43</label>
+	</node>
+</node>
+	<node refinement="disjunctive">
+		<label>13</label>
+		<node refinement="disjunctive" switchRole="yes">
+		<label>42</label>
+	</node>
+</node>
+	<node refinement="disjunctive">
+		<label>18</label>
+		<node refinement="disjunctive" switchRole="yes">
+		<label>46</label>
+	</node>
+</node>
+</node>
+</node>
+</node>
+	<node refinement="disjunctive" switchRole="yes">
+		<label>32</label>
+		<node refinement="disjunctive" switchRole="yes">
+		<label>43</label>
+	</node>
+</node>
+</node>
+</adtree>
