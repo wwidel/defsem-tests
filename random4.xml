@@ -1,0 +1,336 @@
+<?xml version='1.0'?>
+<adtree>
+	<node refinement="conjunctive">
+		<label>1</label>
+		<node refinement="conjunctive">
+			<label>2</label>
+			<node refinement="disjunctive">
+				<label>4</label>
+				<node refinement="conjunctive" switchRole="yes">
+					<label>17</label>
+					<node refinement="disjunctive">
+						<label>18</label>
+					</node>
+					<node refinement="disjunctive">
+						<label>19</label>
+					</node>
+				</node>
+			</node>
+			<node refinement="disjunctive">
+				<label>5</label>
+				<node refinement="conjunctive" switchRole="yes">
+					<label>6</label>
+					<node refinement="conjunctive">
+						<label>7</label>
+						<node refinement="disjunctive">
+							<label>9</label>
+							<node refinement="disjunctive" switchRole="yes">
+								<label>27</label>
+							</node>
+						</node>
+						<node refinement="disjunctive">
+							<label>10</label>
+							<node refinement="disjunctive" switchRole="yes">
+								<label>29</label>
+							</node>
+						</node>
+					</node>
+					<node refinement="disjunctive">
+						<label>8</label>
+						<node refinement="disjunctive" switchRole="yes">
+							<label>29</label>
+						</node>
+					</node>
+					<node refinement="disjunctive">
+						<label>11</label>
+						<node refinement="disjunctive" switchRole="yes">
+							<label>28</label>
+							<node refinement="disjunctive" switchRole="yes">
+								<label>30</label>
+								<node refinement="disjunctive" switchRole="yes">
+									<label>25</label>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node refinement="disjunctive" switchRole="yes">
+				<label>20</label>
+				<node refinement="disjunctive">
+					<label>21</label>
+				</node>
+				<node refinement="disjunctive">
+					<label>22</label>
+					<node refinement="disjunctive" switchRole="yes">
+						<label>25</label>
+					</node>
+				</node>
+				<node refinement="disjunctive">
+					<label>23</label>
+				</node>
+				<node refinement="disjunctive">
+					<label>24</label>
+					<node refinement="conjunctive" switchRole="yes">
+						<label>27</label>
+						<node refinement="conjunctive">
+							<label>N_8</label>
+							<node refinement="conjunctive">
+								<label>N_10</label>
+								<node refinement="conjunctive" switchRole="yes">
+									<label>N_32</label>
+									<node refinement="conjunctive">
+										<label>N_61</label>
+									</node>
+									<node refinement="conjunctive">
+										<label>N_34</label>
+									</node>
+								</node>
+							</node>
+							<node refinement="conjunctive">
+								<label>N_11</label>
+								<node refinement="disjunctive" switchRole="yes">
+									<label>N_35</label>
+									<node refinement="conjunctive">
+										<label>N_36</label>
+									</node>
+									<node refinement="conjunctive">
+										<label>N_37</label>
+										<node refinement="conjunctive">
+											<label>N_38</label>
+										</node>
+										<node refinement="conjunctive">
+											<label>N_39</label>
+											<node refinement="conjunctive" switchRole="yes">
+												<label>N_40</label>
+												<node refinement="conjunctive">
+													<label>xoxo</label>
+												</node>
+												<node refinement="conjunctive">
+													<label>N_42</label>
+													<node refinement="conjunctive">
+														<label>q</label>
+													</node>
+													<node refinement="conjunctive">
+														<label>N_45</label>
+														<node refinement="conjunctive" switchRole="yes">
+															<label>N_46</label>
+															<node refinement="conjunctive" switchRole="yes">
+																<label>N_48</label>
+															</node>
+														</node>
+													</node>
+												</node>
+												<node refinement="conjunctive">
+													<label>N_43</label>
+												</node>
+											</node>
+										</node>
+									</node>
+								</node>
+							</node>
+							<node refinement="conjunctive">
+								<label>N_12</label>
+							</node>
+							<node refinement="conjunctive" switchRole="yes">
+								<label>N_13</label>
+								<node refinement="conjunctive">
+									<label>N_17</label>
+								</node>
+								<node refinement="disjunctive">
+									<label>N_18</label>
+									<node refinement="conjunctive">
+										<label>N_55</label>
+										<node refinement="conjunctive" switchRole="yes">
+											<label>e</label>
+										</node>
+									</node>
+									<node refinement="conjunctive">
+										<label>N_20</label>
+									</node>
+									<node refinement="disjunctive" switchRole="yes">
+										<label>N_21</label>
+										<node refinement="disjunctive" switchRole="yes">
+											<label>N_22</label>
+										</node>
+									</node>
+								</node>
+							</node>
+						</node>
+						<node refinement="disjunctive">
+							<label>N_1</label>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+		<node refinement="disjunctive">
+			<label>N_10</label>
+		</node>
+		<node refinement="conjunctive" switchRole="yes">
+			<label>12</label>
+			<node refinement="conjunctive">
+				<label>13</label>
+				<node refinement="disjunctive">
+					<label>15</label>
+					<node refinement="disjunctive" switchRole="yes">
+						<label>26</label>
+					</node>
+				</node>
+				<node refinement="disjunctive">
+					<label>16</label>
+				</node>
+				<node refinement="disjunctive" switchRole="yes">
+					<label>26</label>
+				</node>
+			</node>
+			<node refinement="disjunctive">
+				<label>14</label>
+				<node refinement="disjunctive" switchRole="yes">
+					<label>27</label>
+					<node refinement="conjunctive">
+						<label>roo</label>
+						<node refinement="conjunctive">
+							<label>a</label>
+							<node refinement="conjunctive">
+								<label>6</label>
+							</node>
+							<node refinement="conjunctive">
+								<label>7</label>
+							</node>
+							<node refinement="conjunctive">
+								<label>8</label>
+								<node refinement="conjunctive">
+									<label>q</label>
+								</node>
+								<node refinement="conjunctive">
+									<label>w</label>
+								</node>
+								<node refinement="conjunctive">
+									<label>asdfas</label>
+								</node>
+								<node refinement="conjunctive" switchRole="yes">
+									<label>r</label>
+									<node refinement="conjunctive">
+										<label>aaaaaaa</label>
+									</node>
+									<node refinement="conjunctive">
+										<label>N_49</label>
+										<node refinement="conjunctive">
+											<label>N_51</label>
+										</node>
+										<node refinement="conjunctive">
+											<label>N_52</label>
+											<node refinement="conjunctive" switchRole="yes">
+												<label>N_57</label>
+												<node refinement="conjunctive" switchRole="yes">
+													<label>N_58</label>
+													<node refinement="conjunctive">
+														<label>N_60</label>
+													</node>
+													<node refinement="conjunctive">
+														<label>N_61</label>
+													</node>
+													<node refinement="conjunctive" switchRole="yes">
+														<label>N_59</label>
+														<node refinement="conjunctive">
+															<label>N_62</label>
+														</node>
+														<node refinement="conjunctive">
+															<label>N_63</label>
+														</node>
+														<node refinement="conjunctive">
+															<label>xoxo</label>
+														</node>
+													</node>
+												</node>
+											</node>
+										</node>
+										<node refinement="conjunctive">
+											<label>N_53</label>
+										</node>
+									</node>
+									<node refinement="disjunctive">
+										<label>N_50</label>
+										<node refinement="conjunctive">
+											<label>N_54</label>
+										</node>
+										<node refinement="conjunctive">
+											<label>N_55</label>
+											<node refinement="conjunctive" switchRole="yes">
+												<label>e</label>
+											</node>
+										</node>
+									</node>
+								</node>
+							</node>
+							<node refinement="conjunctive" switchRole="yes">
+								<label>sasa</label>
+								<node refinement="conjunctive">
+									<label>gdag</label>
+								</node>
+								<node refinement="conjunctive">
+									<label>N_15asfasf</label>
+								</node>
+								<node refinement="disjunctive">
+									<label>xcacas</label>
+									<node refinement="conjunctive">
+										<label>N_66</label>
+										<node refinement="conjunctive">
+											<label>N_69</label>
+											<node refinement="conjunctive" switchRole="yes">
+												<label>xoxo</label>
+											</node>
+										</node>
+										<node refinement="conjunctive">
+											<label>N_70</label>
+										</node>
+									</node>
+									<node refinement="conjunctive">
+										<label>N_68</label>
+										<node refinement="conjunctive" switchRole="yes">
+											<label>N_73</label>
+											<node refinement="conjunctive" switchRole="yes">
+												<label>N_74</label>
+												<node refinement="conjunctive" switchRole="yes">
+													<label>N_75</label>
+													<node refinement="disjunctive">
+														<label>N_76</label>
+														<node refinement="conjunctive">
+															<label>xoxo</label>
+														</node>
+														<node refinement="conjunctive">
+															<label>N_80</label>
+														</node>
+													</node>
+													<node refinement="conjunctive">
+														<label>N_77</label>
+													</node>
+													<node refinement="conjunctive">
+														<label>N_78</label>
+													</node>
+												</node>
+											</node>
+										</node>
+									</node>
+								</node>
+							</node>
+						</node>
+						<node refinement="conjunctive">
+							<label>b</label>
+						</node>
+						<node refinement="conjunctive">
+							<label>d</label>
+						</node>
+						<node refinement="conjunctive">
+							<label>e</label>
+						</node>
+					</node>
+					<node refinement="disjunctive">
+						<label>N_2</label>
+					</node>
+				</node>
+			</node>
+		</node>
+	</node>
+</adtree>
